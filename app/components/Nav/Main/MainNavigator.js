@@ -81,6 +81,7 @@ const WalletTabHome = () => (
 			component={RevealPrivateCredential}
 			options={RevealPrivateCredential.navigationOptions}
 		/>
+		<Stack.Screen name="NetworkSettings" component={NetworkSettings} options={NetworkSettings.navigationOptions} />
 	</Stack.Navigator>
 );
 
