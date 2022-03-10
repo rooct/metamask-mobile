@@ -82,3 +82,6 @@ coverage
 
 # Language files to add
 /locales/languagesToUpdate/*.json
+
+# attributions
+licenseInfos.json
